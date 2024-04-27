@@ -1,0 +1,3 @@
+# CMS Landing Page
+
+The CMS Landing Page repository contains the source files for the landing page used in the Company CMS (Website Builder) at Refresh Marketing Inc. As a Junior Web Developer (Internship), we created this landing page using HTML, CSS, Bootstrap, and JavaScript. The landing page is designed to serve as a template for various website sections within the CMS. It includes different layouts and sections commonly used in websites, providing a versatile foundation for creating diverse pages. Backend teams can implement these layouts within the CMS to streamline the creation of website sections, similar to how it's done in platforms like WordPress.
